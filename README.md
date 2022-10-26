@@ -1,3 +1,3 @@
-# Flutter Wallet App UI
+# Flutter Wallet UI
 
-<img src="screenshot.png">
+<img src="screenshot.png" width="340" height="720">
